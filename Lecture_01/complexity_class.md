@@ -364,6 +364,8 @@ graph TD
 > **"Constant → Logarithmic → Linear → Linearithmic → Quadratic → Exponential"**
 > 
 > **"Money ← ← ← Performance Direction → → → Poverty"**
+![image](https://github.com/user-attachments/assets/622e7dd3-a5d2-4623-8e99-a3384b2dff0c)
+![image](https://github.com/user-attachments/assets/622e7dd3-a5d2-4623-8e99-a3384b2dff0c)
 
 ---
 
